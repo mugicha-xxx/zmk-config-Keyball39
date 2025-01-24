@@ -27,8 +27,8 @@ layers:
   - B
   - N
   - M
-  - {t: ',', s: <}
-  - {t: ., s: '>'}
+  - '&mkp MB1'
+  - '&mkp MB2'
   - {t: /, s: '?'}
   - $$mdi:apple-keyboard-control$$
   - LEFT WIN
